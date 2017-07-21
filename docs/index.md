@@ -1,6 +1,7 @@
 ---
 title: MIDI Gestures
 ---
+
 # MIDI Gestures
 
 ![MIDI Gestures logo](MidiGestures180.png "MIDI Gestures")
@@ -9,4 +10,5 @@ MIDI Gestures lets you alter the output of a connected MIDI keyboard on the fly 
 
 
 ![Download on the App Store badge](Download_on_the_App_Store_Badge_US-UK_135x40.svg "Download on the App Store")
-[Download on the App Store][https://itunes.apple.com/us/app/midi-gestures-supercharge-your-controller/id1258753909?ls=1&mt=8]
+
+(Download on the App Store)[https://itunes.apple.com/us/app/midi-gestures-supercharge-your-controller/id1258753909?ls=1&mt=8]
